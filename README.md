@@ -73,12 +73,3 @@ Ordena los índices de las características según su importancia (de mayor a me
 
 
 **Conclusión:** El enfoque de limpieza rigurosa, selección de características y comparación de algoritmos permitió desarrollar un modelo sólido, escalable y fácil de actualizar con nuevos datos.
-
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Haz un fork, crea una rama y envía un pull request.
-
-## 👤 Contacto
-
-Pablo Pérez – [github.com/tu-usuario](https://github.com/tu-usuario)
-Email: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
